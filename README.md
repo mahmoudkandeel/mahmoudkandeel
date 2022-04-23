@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudkandeel" alt="mahmoudkandeel" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mahmoudkandeel" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudkandeel?logo=twitter&style=for-the-badge" alt="mahmoudkandeel" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mahmoud_kandeel" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoud_kandeel?logo=twitter&style=for-the-badge" alt="mahmoud_kandeel" /></a> </p>
 
 - 💬 Ask me about **angular, JavaScript, .NET**
 
@@ -15,11 +15,13 @@
 <p align="left">
 <a href="https://codepen.io/mahmoudkandeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mahmoudkandeel" height="30" width="40" /></a>
 <a href="https://dev.to/mahmoudkandeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahmoudkandeel" height="30" width="40" /></a>
-<a href="https://twitter.com/mahmoudkandeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoudkandeel" height="30" width="40" /></a>
+<a href="https://twitter.com/mahmoud_kandeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoud_kandeel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahmoudkandeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudkandeel" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1885822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1885822" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mahmoudkandeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mahmoudkandeel" height="30" width="40" /></a>
 <a href="https://fb.com/mahmoudkandeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudkandeel" height="30" width="40" /></a>
 <a href="https://dribbble.com/mahmoudkandeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mahmoudkandeel" height="30" width="40" /></a>
+<a href="https://medium.com/@mahmoudkandeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahmoudkandeel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudkandeel&show_icons=true&locale=en&layout=compact" alt="mahmoudkandeel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudkandeel&show_icons=true&locale=en" alt="mahmoudkandeel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudkandeel&" alt="mahmoudkandeel" /></p>
